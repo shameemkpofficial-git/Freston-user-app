@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "880278295731",
+    "project_id": "freston-44576",
+    "storage_bucket": "freston-44576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880278295731:android:df108616e3d41a09728cc6",
+        "android_client_info": {
+          "package_name": "com.freston"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880278295731-7pqoeqn668s9aj8jdkoi64ikbpko5hcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA00G69eP0U0kwt9SJQME2fOWQu78tgv-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880278295731-7pqoeqn668s9aj8jdkoi64ikbpko5hcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880278295731-jma641re06h1646h8d49queafl2vouu4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freston"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

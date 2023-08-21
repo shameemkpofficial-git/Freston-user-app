@@ -1,0 +1,7 @@
+android/
+build/
+coverage/
+flow-typed/
+ios/
+node_modules/
+log.json
